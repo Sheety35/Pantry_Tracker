@@ -14,7 +14,8 @@ This project was developed as part of a task assigned by Headstater AI. The goal
 - **Responsive Design**: The interface is designed to be user-friendly and responsive.
 
 ## Frontend
-![Uploading Screenshot 2024-08-04 011256.png…]()
+![Screenshot 2024-08-04 011256](https://github.com/user-attachments/assets/3ae1486d-c814-490d-8e1a-d7d343204af9)
+
 
 
 ## Installation
