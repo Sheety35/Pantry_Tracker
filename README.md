@@ -12,6 +12,8 @@ This project was developed as part of a task assigned by Headstater AI. The goal
 - **Remove Items**: Remove items from your inventory with an adjustable quantity.
 - **Clear Inventory**: Clear all items from the inventory with a confirmation prompt.
 - **Responsive Design**: The interface is designed to be user-friendly and responsive.
+- **Sort by quantity**: can sort the items by quantity present in real time
+- **Sort by Name**: can sort by names in real time
 
 ## Frontend
 ![Screenshot 2024-08-04 011256](https://github.com/user-attachments/assets/3ae1486d-c814-490d-8e1a-d7d343204af9)
